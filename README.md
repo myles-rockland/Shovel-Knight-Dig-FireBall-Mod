@@ -11,7 +11,7 @@ A plugin/mod for Shovel Knight Dig that allows you to shoot fireballs at will!
 6. Run the game and enjoy! 
 
 When you have completed the steps above, your Shovel Knight Dig folder should look like the image below.
-![Screenshot of the Shovel Knight Dig install folder layout once the steps above are completed.](./skdIntallFolder.png)
+![Screenshot of the Shovel Knight Dig install folder layout once the steps above are completed.](./skdInstallFolder.png)
 
 # How it works
 Press \[Up + Attack] to toggle the fireball ability, and press \[Attack] to shoot them!
