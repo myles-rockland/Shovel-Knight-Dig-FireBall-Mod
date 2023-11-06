@@ -1,0 +1,6 @@
+C:\Users\Myles\Documents\programs\skd\FireBallPlugin\FireBallPlugin\obj\Debug\net46\FireBallPlugin.csproj.AssemblyReference.cache
+C:\Users\Myles\Documents\programs\skd\FireBallPlugin\FireBallPlugin\obj\Debug\net46\PluginInfo.cs
+C:\Users\Myles\Documents\programs\skd\FireBallPlugin\FireBallPlugin\obj\Debug\net46\FireBallPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myles\Documents\programs\skd\FireBallPlugin\FireBallPlugin\obj\Debug\net46\FireBallPlugin.AssemblyInfoInputs.cache
+C:\Users\Myles\Documents\programs\skd\FireBallPlugin\FireBallPlugin\obj\Debug\net46\FireBallPlugin.AssemblyInfo.cs
+C:\Users\Myles\Documents\programs\skd\FireBallPlugin\FireBallPlugin\obj\Debug\net46\FireBallPlugin.csproj.CoreCompileInputs.cache
