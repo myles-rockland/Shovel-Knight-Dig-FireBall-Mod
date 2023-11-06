@@ -19,3 +19,4 @@ Press \[Up + Attack] to toggle the fireball ability, and press \[Attack] to shoo
 # Known issues
 - Can't progress past title screen sometimes
 - Fireballs get stuck in some tiles
+- Doesn't work with current version of game
